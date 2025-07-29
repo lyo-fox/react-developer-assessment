@@ -64,11 +64,11 @@ Create a `UserProfile` component that:
 
 Design and implement a flexible `Modal` component with these features:
 
-- Opens/closes based on a prop
-- Accepts custom content as children
-- Has a backdrop that closes the modal when clicked
-- Prevents body scroll when open
-- Supports custom close button
+- Open/close based on a prop
+- Accept custom content as children
+- Has a backdrop that close the modal when clicked
+- Prevent body scroll when open
+- Support custom close button
 - Accessible (keyboard navigation, focus management)
 
 Provide usage examples showing different ways to use your Modal component.
@@ -122,4 +122,4 @@ function ProductList() {
 
 1. Provide all code solutions in a single file or organized folder structure
 2. Include comments explaining your reasoning for complex solutions
-3. Push your code to the Github repo and send us the link via email
+3. Push your code to the Github public repo and send us the link via email
